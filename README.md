@@ -9,5 +9,5 @@ Use Arrow Keys on the keyboard as controls for Left, Right, Up, And Down
 
 # View of Game
 ![Screenshot 2023-06-19 120852](https://github.com/humptinessgupta/Snake/assets/136982736/8efcbe9f-e64c-4bff-b653-14f7fe00c9f5)
-# When Game Over
+# Game Over
 ![Screenshot 2023-06-19 121021](https://github.com/humptinessgupta/Snake/assets/136982736/cefb4325-b726-4f88-a123-66cc67962b3b)
